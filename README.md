@@ -151,9 +151,14 @@ This is the Fronend_
 
 **_We are done here with the installation._** :+1:
 
+<h3 align="left">Members:</h3>
+Aftab Harun @7absec
+
 <hr />
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://twitter.com/7absec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="7absec" height="30" width="40" /></a>
+</p>
+<p align="left">
 <a href="https://linkedin.com/in/7absec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="7absec" height="30" width="40" /></a>
 </p>
